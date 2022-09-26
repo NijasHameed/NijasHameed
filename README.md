@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Software Engineer | <br>.Net | C# | Umbraco | Sitecore | Azure |<br>Vue Js | Angular | JSS | MSSQL |<br>Umbraco Certified Master<br>
+Software Engineer | <br>.Net | C# | Umbraco | Sitecore | Azure |<br>Vue Js | Angular | JSS | MSSQL |<br>Umbraco Certified Master<br>
 
 
 ## 🌐 Socials:
